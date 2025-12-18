@@ -1,19 +1,19 @@
 # CSE423-Project
 Project Features:
 
-Multiple Vehicle Types
-Vehicle Movement system
-Dynamic Player Views (First and Third person view)
-Camera Movement (Terrain/ Battlefield movement)
-Interactive Menu System (Pause, Play, Restart, Exit)
-Weather Effects (Rain, snow)
-Day-Night Transition
-AI-Controlled Enemy Vehicles
-Different Types of Ammo
-Player Stats (Health bar, bullets left, points  etc.)
-Pick up items from the environment (medical box, bullets, speed boost etc.)
-Level System 
-Change of environment
-Environmental Hazards (minefields)
-Cheat Mode (Infinity Health, Auto fire, unlimited bullets)
-Damage Effects 
+1. Multiple Vehicle Types
+2. Vehicle Movement system
+3. Dynamic Player Views (First and Third person view)
+4. Camera Movement (Terrain/ Battlefield movement)
+5. Interactive Menu System (Pause, Play, Restart, Exit)
+6. Weather Effects (Rain, snow)
+7. Day-Night Transition
+8. AI-Controlled Enemy Vehicles
+9. Different Types of Ammo
+10. Player Stats (Health bar, bullets left, points  etc.)
+11. Pick up items from the environment (medical box, bullets, speed boost etc.)
+12. Level System 
+13. Change of environment
+14. Environmental Hazards (minefields)
+15. Cheat Mode (Infinity Health, Auto fire, unlimited bullets)
+16. Damage Effects 
