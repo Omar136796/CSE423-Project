@@ -26,13 +26,13 @@ score=0
 #Level Variables
 level=1
 current_wave=1
-enemies_remaining=0
-enemy_health={}
-wave_enemies=[]
+enemies_remaining=0     #alive enemies in current wave
+enemy_health={}         #enemy pos--> health
+wave_enemies=[]         #List of enemy positions in current wave
 wave_complete=False
 level_complete=False
 enemies_per_level=[2,3,4]
-next_wave_timer=0
+next_wave_timer=0       #timer for next wave to appear after current wave completed
 wave_spawn_delay=2.0
 waves_per_level=2
 
@@ -57,18 +57,18 @@ bullet_sizes=[16,10,6]
 forest_raider_positions=[]
 arctic_assault_positions=[]
 sandstorm_buggy_positions=[]
-enemy_movement_timer=0
-enemy_move_interval=0.2
+enemy_movement_timer=0         #timer for enemy movement updates
+enemy_move_interval=0.2        # ei interval er beshi hoile move korbe
 enemy_speeds=[8.0,8.0,8.0]
 enemy_bullets=[]
 enemy_fire_interval_min=3.0
 enemy_fire_interval_max=6.0
 enemy_angles={}
-enemy_next_fire_time={}
+enemy_next_fire_time={}         #when enemy fires next
 enemy_bullet_speed=30
 enemy_shot_damage=50
-enemy_scale_by_level={1:0.95,2:0.90,3:0.95}
-enemy_bullet_radius_by_level={1:3.0,2:3.5,3:3.0}
+enemy_scale_by_level={1:0.95,2:0.90,3:0.95}       #size of the enemy
+enemy_bullet_radius_by_level={1:3.0,2:3.5,3:3.0}   #bullet size
 enemy_muzzle_local={1:(0.0,-145.0,45.0),2:(0.0,-130.0,75.0),3:(0.0,-160.0,65.0)}
 
 #Ground Items
