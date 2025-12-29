@@ -6,7 +6,7 @@ Project Features:
 3. Dynamic Player Views (First and Third person view)
 4. Camera Movement (Terrain/ Battlefield movement)
 5. Interactive Menu System (Pause, Play, Restart, Exit)
-6. 6. Weather Effects (Rain, snow)
+6. Weather Effects (Rain, snow, sand)
 7. Day-Night Transition
 8. AI-Controlled Enemy Vehicles
 9. Different Types of Weapon for different vehicle
