@@ -6,14 +6,14 @@ Project Features:
 3. Dynamic Player Views (First and Third person view)
 4. Camera Movement (Terrain/ Battlefield movement)
 5. Interactive Menu System (Pause, Play, Restart, Exit)
-6. Weather Effects (Rain, snow)
+6. 6. Weather Effects (Rain, snow)
 7. Day-Night Transition
 8. AI-Controlled Enemy Vehicles
-9. Different Types of Ammo
+9. Different Types of Weapon for different vehicle
 10. Player Stats (Health bar, bullets left, points  etc.)
-11. Pick up items from the environment (medical box, bullets, speed boost etc.)
-12. Level System 
+11. Pick up items from the environment (medical box, ammo box)
+12. Level System
 13. Change of environment
 14. Environmental Hazards (minefields)
 15. Cheat Mode (Infinity Health, Auto fire, unlimited bullets)
-16. Damage Effects 
+16. Collision Handle
